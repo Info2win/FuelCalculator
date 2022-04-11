@@ -33,7 +33,6 @@ int main(){
 
     if((oldf = fopen(fname,"r"))== NULL){// open the old file in read mod
         printf("The file could not opened!"); // checking if old file returns NULL
-        exit(1);
     }
     i=0;
     while(fgets(lines[i].line,SIZE,oldf)) // read line by line into the array line[]

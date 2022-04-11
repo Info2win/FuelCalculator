@@ -1,4 +1,4 @@
-# FuelCalculater
+# FuelCalculator
 
 This program reads from a txt file written in a specific format to take inputs.
 First, it asks end-user to enter file name that end-user want to make calculations with.
